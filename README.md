@@ -42,3 +42,9 @@
 
 <!-- TWITTER:START -->
 <!-- TWITTER:END -->
+
+# GitHub Learning Lab Repository for Intro to HTML
+## Demo Webpage
+@ index.html
+
+This repository is licensed under [MIT](LICENSE) (c) 2019 GitHub, Inc.
