@@ -29,6 +29,8 @@ The snippet looks like:
     frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in- 
     picture"allowfullscreen></iframe>
 
+### Credit to [@daksh](https://daksh.github.io/Learning-Git-and-GitHub/)
+
 # Markdown: Syntax
 [Learn](https://daringfireball.net/projects/markdown/syntax)
 ### Highlights
