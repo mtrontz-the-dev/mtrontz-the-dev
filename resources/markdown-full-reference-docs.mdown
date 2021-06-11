@@ -1,3 +1,5 @@
+# Markdown Project Page
+
 # Markdown Document
 
 ## Introduction
@@ -44,7 +46,7 @@ URLs and e-mail addresses can be turned into links by enclosing them in angle br
 - <https://www.actiprosoftware.com>  
 - <support@microsoft.com>
 
-[This link](#markdown-document) links to the first heading in this document via custom ID.
+[This link](#markdown-project-page) links to the first heading in this document via custom ID.
 
 ## Images
 
@@ -184,13 +186,13 @@ Markdown: Basics
 ================
 
 <ul id="ProjectSubmenu">
-    <li><a href="/projects/markdown/" title="Markdown Project Page">Main</a></li>
-    <li><a class="selected" title="Markdown Basics">Basics</a></li>
-    <li><a href="/projects/markdown/syntax" title="Markdown Syntax Documentation">Syntax</a></li>
-    <li><a href="/projects/markdown/license" title="Pricing and License Information">License</a></li>
-    <li><a href="/projects/markdown/dingus" title="Online Markdown Web Form">Dingus</a></li>
+    <li><a href="https://daringfireball.net/projects/markdown/" title="Markdown Project Page">Main</a></li>
+    <li><a class="selected" title="Markdown Syntax Documentation">Basics</a></li>
+    <li><a href="https://daringfireball.net/projects/markdown/basics" title="Markdown: Basics">Syntax</a></li>
+    <li><a href="https://daringfireball.net/projects/markdown/license" title="Pricing and License Information">License</a></li>
+    <li><a href="https://daringfireball.net/projects/markdown/dingus" title="Online Markdown Web Form">Dingus</a></li>
 </ul>
-
+### Credit to [The Daring Fireball Company LLC](https://daringfireball.net/projects/markdown/)
 
 Getting the Gist of Markdown's Formatting Syntax
 ------------------------------------------------
