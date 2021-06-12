@@ -37,11 +37,6 @@
 > A README.md profile generator used to develop this page.
 > Developed by @rahuldkjain
 
-## Twitter Feed Demo
-### 📱 Latest Tweets
-
-<!-- TWITTER:START -->
-<!-- TWITTER:END -->
 
 # GitHub Learning Lab Repository for Intro to HTML
 ## Demo Webpage
