@@ -1,4 +1,4 @@
-# dev_mtrontz
+# mtrontz-the-dev
 
 <h1 align="center">Hi 👋, I'm mtrontz-the-dev!</h1>
 <h3 align="center">A passionate Full Stack developer from New Jersey (USA) and Active Open Source Community Member.</h3>
