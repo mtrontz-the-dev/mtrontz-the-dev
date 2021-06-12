@@ -2,6 +2,7 @@
 
 * [README](README.md)
 * [Resources](resources/README.md)
+  * [Visual Design](resources/visual-design.md)
   * [markdown-full-reference-docs](resources/markdown-full-reference-docs.md)
   * [github-tips](resources/github-tips.md)
   * [social-media](resources/social-media.md)
