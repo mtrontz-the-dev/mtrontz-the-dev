@@ -1,3 +1,11 @@
+---
+layout: default
+comments: true
+layout: page
+title: Blogging Like a Hacker
+---
+
+
 # mtrontz-the-dev
 
 <h1 align="center">Hi 👋, I'm mtrontz-the-dev!</h1>
