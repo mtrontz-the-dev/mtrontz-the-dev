@@ -10,7 +10,7 @@ description: Links/Source Only
 
 The tool is available to all testers at no cost and can be downloaded at [https://www.katalon.com](https://www.katalon.com/?utm_source=toolsqa&utm_medium=article&utm_campaign=toolsqa)
 
-{% file src=".gitbook/assets/continuous-testing-navigator-for-2021-june2021.pdf" caption="The Continuous Testing Navigator for 2021" %}
+{% file src="../../.gitbook/assets/continuous-testing-navigator-for-2021-june2021.pdf" caption="The Continuous Testing Navigator for 2021" %}
 
 ## Enhance Your Automated Tests _**-**_ [_**SpeckFlow**_](https://specflow.org/)
 
@@ -66,7 +66,7 @@ With SpecFlow your options are open.
 
 ### SpecFlow Is Part of Your CI/CD-Process
 
-![](.gitbook/assets/speckflow.png)
+![](../../.gitbook/assets/speckflow.png)
 
 [Autify, AI-powered software testing automation platform](https://autify.com/)
 
