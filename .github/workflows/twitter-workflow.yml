@@ -11,10 +11,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: mtrontz-the-dev/mtrontz-the-dev@master
         with:
           comment_tag_name: "TWITTER"
-          feed_list: "<<[https://rss.app/feeds/KED3sqJrWgWgpnNN.xml]>>"
+          feed_list: "[https://rss.app/feeds/KED3sqJrWgWgpnNN.xml]"
           commit_message: "Updated with the latest tweets"
           committer_username: "twitter-bot"
           committer_email: "twitter-bot@example.com"
