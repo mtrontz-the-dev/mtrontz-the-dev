@@ -9,4 +9,9 @@
 ## Research Topics
 
 * [Digital Experience Platforms \(DXP\) Software](research-topics/digital-experience-platforms-dxp-software.md)
+* [Software Development Life Cycle](research-topics/software-development-life-cycle.md)
+
+---
+
+* [Automation and Testing](automation-and-testing.md)
 
