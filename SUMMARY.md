@@ -1,7 +1,7 @@
 # Table of contents
 
 * [README](README.md)
-* [resources](resources/README.md)
+* [Resources](resources/README.md)
   * [markdown-full-reference-docs](resources/markdown-full-reference-docs.md)
   * [github-tips](resources/github-tips.md)
   * [social-media](resources/social-media.md)
@@ -14,4 +14,10 @@
 ---
 
 * [Automation and Testing](automation-and-testing.md)
+* [VMware](vmware.md)
+
+## Active Development
+
+* [ServiceNow Platform](active-development/servicenow-platform.md)
+* [Flow](active-development/flow.md)
 
