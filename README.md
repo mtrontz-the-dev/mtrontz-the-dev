@@ -6,7 +6,17 @@ description: >-
 
 # README
 
+{% hint style="info" %}
+Let's get this easy one out of the way, while I still have your attention. I recently updated my resume and did some research to find a good template. What follows this sentence, I think you would agree, was beyond anybody's expectations!
+{% endhint %}
 
+{% embed url="https://zety.com/profile/matthew-trontz-dynamic-resume" %}
+
+{% hint style="success" %}
+They actually host your resume after you've made it on their platform! Of course you have to pay, but c'mon, if this isn't worth it then you probably don't need a resume anyways.
+{% endhint %}
+
+{% file src=".gitbook/assets/matthew\_trontz\_resume.pdf" %}
 
 ## mtrontz-the-dev
 
