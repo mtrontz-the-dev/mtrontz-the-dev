@@ -10,15 +10,19 @@
 
 ## Research Topics
 
-* [Visual Design](research-topics/visual-design/README.md)
-  * [Digital Experience Platforms \(DXP\) Software](research-topics/visual-design/digital-experience-platforms-dxp-software.md)
 * [Software Development Life Cycle](research-topics/software-development-life-cycle/README.md)
   * [Automation and Testing](research-topics/software-development-life-cycle/automation-and-testing.md)
   * [Data Dump](research-topics/software-development-life-cycle/data-dump.md)
 
-## Active Development
+## Visual Design
 
-* [Ionic Framework](active-development/ionic-framework.md)
-* [ServiceNow Platform](active-development/servicenow-platform.md)
-* [Flow](active-development/flow.md)
+* [General Design Sources](visual-design/general-design-sources/README.md)
+  * [Digital Experience Platforms \(DXP\) Software](visual-design/general-design-sources/digital-experience-platforms-dxp-software.md)
+
+## Source Code Development
+
+* [Active Development](source-code-development/active-development/README.md)
+  * [ServiceNow Platform](source-code-development/active-development/servicenow-platform.md)
+  * [Ionic Framework](source-code-development/active-development/ionic-framework.md)
+* [Flow](source-code-development/flow.md)
 

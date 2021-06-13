@@ -5,7 +5,7 @@ description: >-
   have just naturally evolved into code.
 ---
 
-# Visual Design
+# General Design Sources
 
 {% hint style="info" %}
 I really am always so aware that in most circumstances, I can only pick one, design or code. Thing is, I think I really love them both equally. I even ran "the test", wondering if I had to pick just one, which would it be. To this day I swear I don't know!
