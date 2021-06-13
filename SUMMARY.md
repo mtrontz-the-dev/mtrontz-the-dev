@@ -42,4 +42,6 @@
   * [Ionic Framework](source-code-development/active-development/ionic-framework.md)
 * [Flow](source-code-development/flow.md)
 * [DesignCode](source-code-development/designcode.md)
+* [Infrastructure as a Service](source-code-development/infrastructure-as-a-service/README.md)
+  * [Vultr](source-code-development/infrastructure-as-a-service/vultr.md)
 

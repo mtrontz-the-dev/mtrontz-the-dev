@@ -1,0 +1,50 @@
+---
+description: >-
+  The Infrastructure Cloud. Easily deploy cloud servers, bare metal, and storage
+  worldwide!
+---
+
+# Vultr
+
+{% embed url="https://www.vultr.com/" %}
+
+### Develop locally, deploy globally
+
+17 worldwide locations
+
+### Powerful Control Panel & APIs
+
+Spend more time coding and less time managing your infrastructure.
+
+{% api-method method="get" host="" path="" %}
+{% api-method-summary %}
+
+{% endapi-method-summary %}
+
+{% api-method-description %}
+
+{% endapi-method-description %}
+
+{% api-method-spec %}
+{% api-method-request %}
+{% api-method-path-parameters %}
+{% api-method-parameter name="" type="string" required=false %}
+
+{% endapi-method-parameter %}
+{% endapi-method-path-parameters %}
+{% endapi-method-request %}
+
+{% api-method-response %}
+{% api-method-response-example httpCode=200 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```
+
+```
+{% endapi-method-response-example %}
+{% endapi-method-response %}
+{% endapi-method-spec %}
+{% endapi-method %}
+
