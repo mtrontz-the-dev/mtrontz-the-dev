@@ -9,7 +9,7 @@ description: >-
 
 ## Currently Under Development
 
-`Obviously, keeping up with this library that probably no one reads anyways. I like to think of t as my daily log book, which happens to be public. Actually, I may have left the account on private... I need to check on that.`
+Obviously, keeping up with this library that probably no one reads anyways. I like to think of t as my daily log book, which happens to be public. Actually, I may have left the account on private... I need to check on that.
 
 ## Ionic Framework
 
