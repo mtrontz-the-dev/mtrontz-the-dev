@@ -2,6 +2,7 @@
 
 * [README](README.md)
 * [Resources](resources/README.md)
+  * [ArcGIS Developers](resources/arcgis-developers.md)
   * [VMware](resources/vmware.md)
   * [markdown-full-reference-docs](resources/markdown-full-reference-docs.md)
   * [github-tips](resources/github-tips.md)
