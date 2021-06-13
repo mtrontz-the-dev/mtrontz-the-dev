@@ -17,7 +17,7 @@
 ## Visual Design
 
 * [General Design Sources](visual-design/general-design-sources/README.md)
-  * [ProtoPie](visual-design/general-design-sources/protopie.md)
+  * [ProtoPie \*\*\*](visual-design/general-design-sources/protopie.md)
   * [Digital Experience Platforms \(DXP\) Software](visual-design/general-design-sources/digital-experience-platforms-dxp-software.md)
 
 ## Source Code Development
