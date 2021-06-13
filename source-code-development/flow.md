@@ -11,9 +11,7 @@ description: >-
 
 | Name | Organization | Token |
 | :--- | :--- | :---: |
-| dft-token-alpha | Digital Fortress Technologies`Organization ID - 435790` | 1720210add49542e07d79f2c07fd4986e7245f5f8332dffadc569a45ca11928d |
 
-Secure Email Address for sending tasks `flow+clrk1s5l@getflow.com`
 
 {% embed url="https://flow+clrk1s5l@getflow.com" %}
 
