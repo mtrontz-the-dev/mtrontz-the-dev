@@ -17,6 +17,7 @@
 ## Visual Design
 
 * [General Design Sources](visual-design/general-design-sources/README.md)
+  * [3D & AR Design](visual-design/general-design-sources/3d-and-ar-design.md)
   * [ProtoPie \*\*\*](visual-design/general-design-sources/protopie.md)
   * [Digital Experience Platforms \(DXP\) Software](visual-design/general-design-sources/digital-experience-platforms-dxp-software.md)
 
