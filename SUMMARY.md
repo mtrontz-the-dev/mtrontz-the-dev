@@ -1,6 +1,7 @@
 # Table of contents
 
 * [README](README.md)
+* [The Line Up](the-line-up.md)
 * [Resources](resources/README.md)
   * [ArcGIS Developers](resources/arcgis-developers.md)
   * [VMware](resources/vmware.md)
@@ -13,6 +14,7 @@
 * [Software Development Life Cycle](research-topics/software-development-life-cycle/README.md)
   * [Authentication](research-topics/software-development-life-cycle/untitled.md)
   * [Automation and Testing](research-topics/software-development-life-cycle/automation-and-testing.md)
+  * [Crypto Trading Data Dump](research-topics/software-development-life-cycle/crypto-trading-data-dump.md)
   * [Data Dump](research-topics/software-development-life-cycle/data-dump.md)
 
 ## Visual Design
