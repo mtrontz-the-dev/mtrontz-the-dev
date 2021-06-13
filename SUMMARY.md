@@ -18,9 +18,12 @@
 
 * [3D & AR Design](visual-design/3d-and-ar-design/README.md)
   * [Vectary](visual-design/3d-and-ar-design/vectary.md)
-* [General Design Sources](visual-design/general-design-sources/README.md)
-  * [ProtoPie \*\*\*](visual-design/general-design-sources/protopie.md)
-  * [Digital Experience Platforms \(DXP\) Software](visual-design/general-design-sources/digital-experience-platforms-dxp-software.md)
+* [Amazing Design Sources!](visual-design/amazing-design-sources/README.md)
+  * [Sketch](visual-design/amazing-design-sources/sketch.md)
+  * [Figma](visual-design/amazing-design-sources/figma.md)
+  * [ProtoPie \*\*\*](visual-design/amazing-design-sources/protopie.md)
+* [Interesting Design Sources](visual-design/interesting-design-sources/README.md)
+  * [Digital Experience Platforms \(DXP\) Software](visual-design/interesting-design-sources/digital-experience-platforms-dxp-software.md)
 
 ## Source Code Development
 
