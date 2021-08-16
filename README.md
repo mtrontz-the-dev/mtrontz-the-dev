@@ -8,11 +8,11 @@ Hi 👋, I'm mtrontz-the-dev!
 
  [![dev\_mtrontz](https://img.shields.io/twitter/follow/dev_mtrontz?logo=twitter&style=for-the-badge)](https://twitter.com/dev_mtrontz)
 
-- 🔭 I’m currently working on \[cool demo sites \(hosted on Github Pages of course\) that highlight all of my knowlege and experience gained from the personal rsearch that I do.\]\(https://github.com/mtrontz-the-dev/dev\_mtrontz\)
+- 🔭 I’m currently working on \[cool demo sites \(hosted on Github Pages of course\) that highlight all of my knowlege and experience gained from the personal rsearch that I do.\]\(https://github.com/mtrontz-the-dev)
 
 - 🌱 I’m currently learning \*\*how to develop dynamic modules using APIs and open source tools\*\*
 
-- 👨‍💻 All of my projects are available at \[https://github.com/mtrontz-the-dev\]\(https://github.com/mtrontz-the-dev\)
+- 👨‍💻 All of my projects are available at https://github.com/mtrontz-the-dev)
 
 - 💬 Ask me about anything\*!
 
