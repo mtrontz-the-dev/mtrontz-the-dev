@@ -34,7 +34,7 @@ Phone (Calls go Straight to my Office!): (201) 898-9603
 
 ![mtrontz-the-dev](https://komarev.com/ghpvc/?username=mtrontz-the-dev&label=Profile%20views&color=0e75b6&style=flat)
 
- [![dev\_mtrontz](https://img.shields.io/twitter/follow/dev_mtrontz?logo=twitter&style=for-the-badge)](https://twitter.com/dev_mtrontz)
+ [![mtrontz_the_dev](https://img.shields.io/twitter/follow/mtrontz_the_dev?logo=twitter&style=for-the-badge)](https://twitter.com/mtrontz_the_dev)
 
 - 📫 How to reach me \*\*reach me? why would anyone want to reach me...\*\*
 
