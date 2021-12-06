@@ -1,6 +1,9 @@
-## mtrontz-the-dev
+# My Dev Profile
 
-Hi 👋, I'm mtrontz-the-dev!
+<h1 style="text-align: center;">mtrontz-the-dev</h1>
+
+<a style="text-align: center;" href="https://stackoverflow.com/users/15817172/mtrontz-the-dev"><img src="https://stackoverflow.com/users/flair/15817172.png" width="208" height="58" alt="profile for mtrontz-the-dev at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for mtrontz-the-dev at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
 
 
 Hi 👋, I'm Matthew Trontz, aka mtrontz-the-dev!
