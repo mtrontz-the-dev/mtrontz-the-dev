@@ -2,10 +2,6 @@
 
 <h1 style="text-align: center;">mtrontz-the-dev</h1>
 
-<a style="text-align: center;" href="https://stackoverflow.com/users/15817172/mtrontz-the-dev"><img src="https://stackoverflow.com/users/flair/15817172.png" width="208" height="58" alt="profile for mtrontz-the-dev at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for mtrontz-the-dev at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-
-
-
 Hi 👋, I'm Matthew Trontz, aka mtrontz-the-dev!
                                                    
 #### A passionate Full Stack Developer / Systems Engineer from New Jersey (USA) and Active Open Source Development Community Member.
@@ -35,9 +31,12 @@ Phone (Calls go Straight to my Office!): (201) 898-9603
 
 #### A passionate Full Stack developer from New Jersey \(USA\) and Active Open Source Community Member.
 
+## Badges
 ![mtrontz-the-dev](https://komarev.com/ghpvc/?username=mtrontz-the-dev&label=Profile%20views&color=0e75b6&style=flat)
 
  [![mtrontz_the_dev](https://img.shields.io/twitter/follow/mtrontz_the_dev?logo=twitter&style=for-the-badge)](https://twitter.com/mtrontz_the_dev)
+
+<a style="text-align: center;" href="https://stackoverflow.com/users/15817172/mtrontz-the-dev"><img src="https://stackoverflow.com/users/flair/15817172.png" width="208" height="58" alt="profile for mtrontz-the-dev at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for mtrontz-the-dev at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 - 📫 How to reach me \*\*reach me? why would anyone want to reach me...\*\*
 
